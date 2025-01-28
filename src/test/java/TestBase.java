@@ -46,5 +46,3 @@ public class TestBase {
         Selenide.closeWebDriver();
     }
 }
-
-//selenoid.autotests.cloud
